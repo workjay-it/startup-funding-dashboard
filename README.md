@@ -39,3 +39,4 @@ SQL joins based on company permalinks.
 - DuckDB database management
 - Python data visualization
 - Analytical storytelling
+
